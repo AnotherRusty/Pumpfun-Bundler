@@ -26,10 +26,6 @@ I will describe the features following
 
 ### You can check above transaction status interacting with 20 wallets. This is just only example and if you want more accounts please contact me. I can provide more customized bundler for you. Actually about 30 wallets are possible
 
-## 📞 Contact Info
-
-### Telegram: [enlomy](https://t.me/enlomy)
-
 ## 🍵 Tip
 
 ### If you are intereseted in my projects, please 🔗fork or give me ⭐star
